@@ -62,8 +62,13 @@ Check my pinned repositories below 👇
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5ucl33p&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=5ucl33p&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=5ucl33p&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
