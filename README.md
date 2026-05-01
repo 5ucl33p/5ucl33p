@@ -56,13 +56,13 @@ Check my pinned repositories below 👇
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: https://linkedin.com/in/5ucl33p
 
 ---
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=5ucl33p&show_icons=true&theme=default"/>
 </p>
 
 ---
