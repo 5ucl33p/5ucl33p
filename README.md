@@ -52,7 +52,7 @@ Check my pinned repositories below 👇
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://linkedin.com/in/your-profile  
+- LinkedIn: https://www.linkedin.com/in/sudeepkushwaha/
 
 ---
 
