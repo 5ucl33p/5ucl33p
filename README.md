@@ -61,13 +61,15 @@
 ---
 
 ### 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=5ucl33p&show_icons=true&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=5ucl33p&show_icons=true&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=5ucl33p&layout=compact&hide_border=true" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=5ucl33p&layout=compact&hide_border=true" />
 </p>
+
 
 ---
 
