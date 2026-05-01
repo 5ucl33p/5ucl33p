@@ -1,7 +1,7 @@
 <h1 align="center">Sudeep Kushwaha</h1>
 
 <p align="center">
-Data Analyst • SQL • Excel • Power BI
+Data Analyst • SQL • Excel • Power BI • Python
 </p>
 
 <p align="center">
