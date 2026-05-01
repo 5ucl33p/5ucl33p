@@ -1,11 +1,11 @@
 <h1 align="center">Sudeep Kushwaha</h1>
 
 <p align="center">
-Data Analyst • SQL • Excel • Power BI • Python
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Analyst;SQL+%7C+Excel+%7C+Power+BI;Turning+Data+into+Insights;Always+Learning+%26+Improving&center=true&width=500&height=45">
 </p>
 
 <p align="center">
-Turning raw data into meaningful insights
+  Data Analyst • SQL • Excel • Power BI
 </p>
 
 ---
@@ -13,36 +13,40 @@ Turning raw data into meaningful insights
 ### 👨‍💻 About Me
 - Data Analyst with 1.5+ years of experience  
 - Skilled in SQL, Excel & Power BI  
-- Focused on dashboards, reporting & business insights  
-- Passionate about solving real-world problems with data  
+- Focused on dashboards, reporting & KPI tracking  
+- Turning raw data into actionable business insights  
 
 ---
 
-### 🧠 How I Work
-Raw Data → Cleaning → Analysis → Insights → Business Impact
+### 🧠 Data Workflow
+<p align="center">
+  Raw Data → Cleaning → Analysis → Insights → Business Impact
+</p>
 
 ---
 
 ### 🛠️ Tools & Skills
-- SQL  
-- Excel (Pivot Tables, Dashboards, Automation)  
-- Power BI (DAX, Data Modeling, Reports)  
-- Python (Pandas - Basics)  
+<p align="center">
+  <img src="https://img.shields.io/badge/SQL-000?style=for-the-badge&logo=postgresql"/>
+  <img src="https://img.shields.io/badge/Excel-000?style=for-the-badge&logo=microsoft-excel"/>
+  <img src="https://img.shields.io/badge/PowerBI-000?style=for-the-badge&logo=powerbi"/>
+  <img src="https://img.shields.io/badge/Python-000?style=for-the-badge&logo=python"/>
+</p>
 
 ---
 
 ### 📊 What You’ll Find Here
 - Data analysis projects  
-- Dashboard-based insights  
+- Interactive dashboards  
 - KPI tracking & reporting  
-- Continuous learning  
+- Business-focused insights  
 
 ---
 
 ### 🚀 Current Focus
-- Advanced SQL  
+- Advanced SQL & query optimization  
 - End-to-end analytics projects  
-- Improving Python for data analysis  
+- Strengthening Python (Pandas)  
 
 ---
 
@@ -52,10 +56,17 @@ Check my pinned repositories below 👇
 ---
 
 ### 📫 Connect with Me
-- LinkedIn: https://www.linkedin.com/in/sudeepkushwaha/
+- LinkedIn: https://linkedin.com/in/your-profile  
+
+---
+
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=default"/>
+</p>
 
 ---
 
 <p align="center">
-Consistency > Perfection
+  Consistency > Perfection
 </p>
